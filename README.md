@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-**Follow my work here**: [Website](https://informfully.ch/) | [Documentation](https://informfully.readthedocs.io/) | [Informfully](https://github.com/orgs/Informfully/repositories) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html)
+**Follow my work here**: [Website](https://informfully.ch/) | [Informfully](https://github.com/orgs/Informfully/repositories) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html)
 
 <!--
 **lucienheitz/lucienheitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
