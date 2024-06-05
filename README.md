@@ -4,7 +4,7 @@
 
 **Consider joining our awesome community:** [Informfully](https://github.com/orgs/Informfully/repositories)
 
-![Informfully](https://informfully.readthedocs.io/en/latest/_images/logo_banner.png)
+![Informfully](/img/informfully_small.png)
 
 <!--
 **lucienheitz/lucienheitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
