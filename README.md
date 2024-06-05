@@ -1,8 +1,10 @@
 ## Hello World 👋
 
-**Follow my work on news recommendations**: [Website](https://informfully.ch/) | [Informfully](https://github.com/orgs/Informfully/repositories) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis/people/heitz.html) | [Papers](https://scholar.google.com/citations?user=fgcsrbQAAAAJ)
+**Follow my work on news recommender systems here**: [Website](https://informfully.ch/) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis/people/heitz.html) | [Papers](https://scholar.google.com/citations?user=fgcsrbQAAAAJ)
 
-![Screenshots](https://informfully.readthedocs.io/en/latest/_images/app_screens.png)
+**Consider joining our awesome community:** [Informfully](https://github.com/orgs/Informfully/repositories)
+
+![Informfully](https://informfully.readthedocs.io/en/latest/_images/logo_banner.png)
 
 <!--
 **lucienheitz/lucienheitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
