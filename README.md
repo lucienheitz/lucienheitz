@@ -2,7 +2,7 @@
 
 ![Informfully](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/logo_banner.png)
 
-**Consider joining our awesome community:** [GitHub](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch/) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis/people/heitz.html)
+**Consider joining our awesome community:** [Informfully](https://informfully.ch/) | [GitHub](https://github.com/Informfully) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis/people/heitz.html)
 
 **Follow my work on news and recommender systems:**
 
