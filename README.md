@@ -1,4 +1,4 @@
-## Hello World 👋
+## Hello World!
 
 ![Informfully](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/logo_banner.png)
 
@@ -15,6 +15,8 @@
 * [Exploring Graph-querying Approaches in LifeGraph](https://dl.acm.org/doi/abs/10.1145/3463948.3469068)
 * [VideoGraph – Towards Using Knowledge Graphs for Interactive Video Retrieval](https://link.springer.com/chapter/10.1007/978-3-030-67835-7_38)
 * [Diversity in News Recommendation](https://drops.dagstuhl.de/entities/document/10.4230/DagMan.9.1.43)
+
+If you have any question about Informfully or be research, feel free to reacho out: info@informfully.ch
 
 <!--
 **lucienheitz/lucienheitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
