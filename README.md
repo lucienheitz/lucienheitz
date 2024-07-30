@@ -6,6 +6,7 @@
 
 **Follow my work on news and recommender systems:**
 
+* [Informfully – Research Platform for Reproducible User Studies](https://recsys.acm.org/recsys24/accepted-contributions/#content-tab-1-1-tab)
 * [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/)
 * [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/)
 * [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/)
