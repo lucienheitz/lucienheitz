@@ -7,8 +7,8 @@
 **Follow my work on news and recommender systems:**
 
 * [Informfully – Research Platform for Reproducible User Studies](https://recsys.acm.org/recsys24/accepted-contributions/#content-tab-1-2-tab)
-* [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/)
-* [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/)
+* [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
+* [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
 * [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/)
 * [Deliberative Diversity for News Recommendations: Operationalization and Experimental User Study](https://dl.acm.org/doi/abs/10.1145/3604915.3608834)
 * [Benefits of Diverse News Recommendations for Democracy: A User Study](https://www.tandfonline.com/doi/full/10.1080/21670811.2021.2021804)
