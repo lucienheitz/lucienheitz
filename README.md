@@ -6,6 +6,7 @@
 
 **Follow my work on news and recommender systems:**
 
+<!--[IDEA – Informfully Dataset with Enhanced Attributes](TBD)-->
 * [Informfully – Research Platform for Reproducible User Studies](https://www.researchgate.net/publication/383261885_Informfully_-_Research_Platform_for_Reproducible_User_Studies)
 * [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://www.researchgate.net/publication/383261868_Recommendations_for_the_Recommenders_Reflections_on_Prioritizing_Diversity_in_the_RecSys_Challenge)
 * [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
