@@ -19,4 +19,4 @@
 * [VideoGraph – Towards Using Knowledge Graphs for Interactive Video Retrieval](https://link.springer.com/chapter/10.1007/978-3-030-67835-7_38)
 * [Diversity in News Recommendation](https://drops.dagstuhl.de/entities/document/10.4230/DagMan.9.1.43)
 
-If you have any question about Informfully or my research, feel free to connect on [LinkedIn](https://www.linkedin.com/in/lucien-heitz) or reach out to me via e-mail: info@informfully.ch
+If you have any questions about Informfully or my research, feel free to connect on [LinkedIn](https://www.linkedin.com/in/lucien-heitz) or reach out to me via e-mail: info@informfully.ch
