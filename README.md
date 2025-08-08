@@ -8,6 +8,7 @@
 
 * [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://github.com/lucienheitz/lucienheitz/blob/main/papers/heitz2025recommenders.pdf)
 * [DRDW – Diversity-Driven Random Walks for News Recommender Systems](https://github.com/lucienheitz/lucienheitz/blob/main/papers/li2025drdw.pdf)
+* [Adaptive Political Surveys and GPT-4: Tackling the Cold Start Problem with Simulated User Interactions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0322690)
 * [IDEA – Informfully Dataset with Enhanced Attributes](https://ceur-ws.org/Vol-3898/paper1.pdf)
 * [Informfully – Research Platform for Reproducible User Studies](https://dl.acm.org/doi/10.1145/3640457.3688066)
 * [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://dl.acm.org/doi/10.1145/3687151.3687155)
