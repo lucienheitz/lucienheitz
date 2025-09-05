@@ -23,5 +23,6 @@
 * [Exploring Graph-querying Approaches in LifeGraph](https://doi.org/10.1145/3463948.3469068)
 * [VideoGraph – Towards Using Knowledge Graphs for Interactive Video Retrieval](https://doi.org/10.1007/978-3-030-67835-7_38)
 * [Diversity in News Recommendation](https://doi.org/10.4230/DagMan.9.1.43)
+<!-- * [ewsImages in MediaEval 2025 – Comparing Image Retrieval and Generation for News Articles](TBD) -->
 
-If you have any questions about Informfully or my research, feel free to connect on [LinkedIn](https://www.linkedin.com/in/lucien-heitz) or reach out to me via e-mail: info@informfully.ch
+If you have any questions about Informfully or my research, feel free to connect on [LinkedIn](https://www.linkedin.com/in/lucien-heitz) or reach out to me via e-mail: <info@informfully.ch>
