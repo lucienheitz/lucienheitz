@@ -6,8 +6,8 @@
 
 **Follow my work on news, politics, and recommender systems:**
 
-* [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://arxiv.org/abs/2508.13019)
-* [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://arxiv.org/abs/2508.13035)
+* [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://doi.org/10.1145/3705328.3748148)
+* [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://doi.org/10.1145/3705328.3748016)
 * [Nudges for News Recommenders](https://doi.org/10.1093/joc/jqaf019)
 * [Adaptive Political Surveys and GPT-4: Tackling the Cold Start Problem with Simulated User Interactions](https://doi.org/10.1371/journal.pone.0322690)
 * [IDEA – Informfully Dataset with Enhanced Attributes](https://ceur-ws.org/Vol-3898/paper1.pdf)
