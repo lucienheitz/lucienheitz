@@ -9,7 +9,7 @@
 * [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://doi.org/10.1145/3705328.3748148)
 * [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://doi.org/10.1145/3705328.3748016)
 * [NewsImages in MediaEval 2025 – Comparing Image Retrieval and Generation for News Articles](https://github.com/Informfully/Challenges/blob/main/newsimages25/newsimages_task_overview_paper.pdf)
-* [Nudges for News Recommenders](https://doi.org/10.1093/joc/jqaf019)
+* [Nudges for News Recommenders: Prominent Article Positioning Increases Selection, Engagement and Recall of Environmental News](https://doi.org/10.1093/joc/jqaf019)
 * [Adaptive Political Surveys and GPT-4: Tackling the Cold Start Problem with Simulated User Interactions](https://doi.org/10.1371/journal.pone.0322690)
 * [IDEA – Informfully Dataset with Enhanced Attributes](https://ceur-ws.org/Vol-3898/paper1.pdf)
 * [Informfully – Research Platform for Reproducible User Studies](https://doi.org/10.1145/3640457.3688066)
