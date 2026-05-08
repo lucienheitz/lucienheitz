@@ -2,7 +2,7 @@
 
 ![Informfully](https://raw.githubusercontent.com/Informfully/Informfully.github.io/refs/heads/main/docs/img/logo_banner.png)
 
-**Consider joining our awesome Informfully community:** [GitHub](https://github.com/Informfully) | [Website](https://informfully.ch/) | [X](https://x.com/informfully)
+**Consider joining our awesome Informfully community:** [GitHub](https://github.com/Informfully) | [Website](https://informfully.ch) | [X](https://x.com/informfully)
 
 **Follow my work on news, politics, and recommender systems:**
 
