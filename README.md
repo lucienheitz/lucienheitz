@@ -6,6 +6,7 @@
 
 **Follow my work on news, politics, and recommender systems:**
 
+* [Informfully Research Platform - An Open Source Project for Conducting Empirical Research with Recommender Systems](https://dl.acm.org/doi/10.1145/3820883)
 * [NewsImages in MediaEval 2025 – Comparing Image Retrieval and Generation for News Articles](https://2025.multimediaeval.com/paper1.pdf)
 * [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://doi.org/10.1145/3705328.3748148)
 * [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://doi.org/10.1145/3705328.3748016)
